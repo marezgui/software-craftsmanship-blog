@@ -24,7 +24,8 @@
 }
 
 .avatar img {
-  height: 120px;
+  height: 250px;
+  border-radius: 50%;
 }
 
 .name {
@@ -33,4 +34,8 @@
 
 .name a {
   color: inherit;
+}
+
+.skills {
+  text-align: center;
 }
