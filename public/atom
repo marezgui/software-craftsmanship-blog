@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <title>My Blog</title>
+    <subtitle>Blog</subtitle>
+    <link href="/atom" rel="self" type="application/rss+xml"/>
+    <link href="/" />
+    <updated>2025-02-25T15:42:26.850Z</updated>
+    <id>Mon Blog sur le Software Craftsmanship</id>
+    <entry>
+      <id>/blog/bienvenue-dans-l-art-du-logiciel-1</id>
+      <title>Partie 1 – Bienvenue dans l’Art du Logiciel</title>
+      <link href="/blog/bienvenue-dans-l-art-du-logiciel-1"/>
+      <updated>2025-02-17T23:00:00.068Z</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Imaginez un développeur face à son clavier : plutôt qu’un simple exécutant, il se comporte en véritable artisan, attentif à la qualité et au détail de chaque ligne de code. C’est l’essence du <i>software craftsmanship</i> : allier l’exigence d’une ingénierie rigoureuse à la recherche d’excellence dans la pratique du développement. Cette approche va au-delà de la simple exécution de tâches ; elle encourage chacun à s’investir dans la qualité et la pérennité des logiciels qu’il livre, tout en favorisant l’apprentissage continu et le partage de connaissances.</p>
+          <p class="more">
+            <a href="/blog/bienvenue-dans-l-art-du-logiciel-1">Read more</a>
+          </p>
+        </div>
+      </content>
+      <author><name>Malek Rezgui</name></author>
+    </entry>
+    <entry>
+      <id>/blog/vers-des-tests-efficaces-et-une-architecture-testable</id>
+      <title>Partie 2 – Vers des Tests Efficaces et une Architecture Testable</title>
+      <link href="/blog/vers-des-tests-efficaces-et-une-architecture-testable"/>
+      <updated>2025-02-21T23:00:00.069Z</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Après avoir vu pourquoi et comment viser la qualité dans la conception logicielle, penchons-nous à présent sur la <b>testabilité</b> et la <b>structure du code</b>. L’objectif : disposer de tests fiables, rapides, et directement alignés sur les règles métier. Dans cette optique, nous aborderons la question du découplage, de l’inversion de dépendances et de la classification des tests (unitaires, intégration, end-to-end).</p>
+          <p class="more">
+            <a href="/blog/vers-des-tests-efficaces-et-une-architecture-testable">Read more</a>
+          </p>
+        </div>
+      </content>
+      <author><name>Malek Rezgui</name></author>
+    </entry>
+  </feed>
